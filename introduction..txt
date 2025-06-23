@@ -1,0 +1,27 @@
+# 👋 Hi there, I'm Kareem Mahmoud Mohamed Mattar
+
+🚀 Aspiring back-end web developer and cloud engineer.
+
+---
+
+## 🌱 About Me
+
+I'm passionate about building scalable back-end systems and learning how to harness the power of cloud computing to solve real-world problems. Currently on a journey to sharpen my skills in development and cloud architecture.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- 🌐 HTML, CSS, JavaScript
+- 🟨 Node.js
+- 🖥️ Linux
+- ☁️ AWS
+- 💻 C, C++
+
+---
+
+## 📈 GitHub Stats
+
+![Kareem's GitHub stats](https://github-readme-stats.vercel.app/api?username=kareemmmm&show_icons=true&theme=tokyonight)
+
+---
